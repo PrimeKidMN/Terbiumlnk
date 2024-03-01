@@ -1,11 +1,4 @@
 <html>
-
-<head>
-</head>
-
-<body>
-	<button onclick="openGame()">Open Terbium</button>
-	<script>
 		function openGame() {
 var win = window.open()
 var url = "https://algebrastudy-jet.vercel.app/terbium/index.html"
